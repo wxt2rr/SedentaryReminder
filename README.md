@@ -1,10 +1,6 @@
 # 🧘‍♂️ 久坐提醒助手 (Sedentary Reminder) for macOS
 
 <p align="center">
-  <img src="./SedentaryReminder/Assets.xcassets/AppIcon.appiconset/icon_512x512.png" alt="App Icon" width="128">
-</p>
-
-<p align="center">
   一个轻量级、现代化的 macOS 菜单栏工具，旨在通过灵活的提醒方式帮助你保持健康的工作节奏。
   <br><br>
   <b>SwiftUI 原生开发 · 零依赖 · 高性能</b>
